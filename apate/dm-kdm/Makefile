@@ -1,6 +1,6 @@
 #!/usr/bin/make -f
 
-THEME= aptosid-keres
+THEME= aptosid-apate
 BITMAPS= files background comic-fred aptosid
 
 all: $(BITMAPS)
@@ -10,7 +10,7 @@ files:
 	cp session.png $(THEME)
 	cp system.png $(THEME)
 	cp KdmGreeterTheme.desktop $(THEME)
-	cp keres.xml $(THEME)
+	cp apate.xml $(THEME)
 	cp oxygen.svg $(THEME)
 	cp screenshot.png $(THEME)
 

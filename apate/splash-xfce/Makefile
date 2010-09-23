@@ -1,6 +1,6 @@
 #!/usr/bin/make -f
 
-THEME= aptosid-keres
+THEME= aptosid-apate
 BITMAPS= logo.png
 SVG= logo.svg
 

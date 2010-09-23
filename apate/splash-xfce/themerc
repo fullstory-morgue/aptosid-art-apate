@@ -1,5 +1,5 @@
 #
-# Default aptosid 2010-02 keres theme 
+# Default aptosid 2010-03 apate theme 
 # for xfce4 based on the balou engine
 #
 # Copyright (c) 2010 David Creedy <klaymen@sidux.com>
@@ -30,8 +30,8 @@
 # Info section
 #
 [Info]
-Name=aptosid 2010-02 (keres)
-Description=default xfce theme for aptosid 2010-02 release
+Name=aptosid 2010-03 (apate)
+Description=default xfce theme for aptosid 2010-03 release
 
 #
 # splash screen settings
