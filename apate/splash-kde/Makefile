@@ -1,6 +1,6 @@
 #!/usr/bin/make -f
 
-THEME= aptosid-keres
+THEME= aptosid-apate
 CONTROLDIR= 1920x1200
 
 all: prepare background letters

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-theme=aptosid-keres
+theme=aptosid-apate
 res1=1920x1200
 res2=1600x1200
 letters=( a p t o sid )
