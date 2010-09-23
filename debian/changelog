@@ -1,6 +1,6 @@
-aptosid-art-apate (0.0.0) UNRELEASED; urgency=low
+aptosid-art-apate (0.0.0) unstable; urgency=low
 
-  * NOT RELEASED YET
   * initual Ἀπάτη cleanup.
+  * add dummy artwork.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 24 Sep 2010 00:05:13 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 24 Sep 2010 00:26:10 +0200
