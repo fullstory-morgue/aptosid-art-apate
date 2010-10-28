@@ -1,10 +1,7 @@
-aptosid-art-apate (0.0.2) UNRELEASED; urgency=low
+aptosid-art-apate (0.0.2) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Rick Battle ]
-  * added city + spiral radio waves to wallpaper themed, `the claws that guide us`
+  * added city + spiral radio waves to wallpaper themed, 'the claws that guide
+    us'.
 
  -- Rick Battle <rick.battle@celtrenicdesigns.com>  Wed, 27 Oct 2010 13:34:10 +0100
 
