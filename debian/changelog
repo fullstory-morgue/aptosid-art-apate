@@ -1,8 +1,12 @@
 aptosid-art-apate (0.0.4) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 28 Oct 2010 14:39:40 +0200
+  [ Niall Walsh ]
+  * Upload Rick's kdm theme with an updated screenshot
+
+ -- Niall Walsh <niallwalsh@users.berlios.de>  Fri, 29 Oct 2010 16:34:36 +0100
 
 aptosid-art-apate (0.0.3) unstable; urgency=low
 

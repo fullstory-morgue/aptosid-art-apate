@@ -1,7 +1,7 @@
 #!/usr/bin/make -f
 
 THEME= aptosid-apate
-BITMAPS= files background comic-fred aptosid
+BITMAPS= files background fred
 
 all: $(BITMAPS)
 
@@ -18,12 +18,8 @@ background:
 	inkscape --without-gui --export-width=1920 --export-height=1200 \
 		--export-png="$(THEME)/background.png" $@.svg
 
-comic-fred:
-	inkscape --without-gui --export-width=108 --export-height=116 \
-		--export-png="$(THEME)/$@.png" $@.svg
-
-aptosid:
-	inkscape --without-gui --export-width=330 --export-height=190 \
+fred:
+	inkscape --without-gui --export-width=94 --export-height=100 \
 		--export-png="$(THEME)/$@.png" $@.svg
 
 clean:
