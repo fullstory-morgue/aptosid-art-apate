@@ -1,3 +1,9 @@
+aptosid-art-apate (0.0.6) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 14 Nov 2010 22:44:50 +0100
+
 aptosid-art-apate (0.0.5) unstable; urgency=low
 
   * splash-xfce: continuing the use of the hypnos overlay, with the new apate
