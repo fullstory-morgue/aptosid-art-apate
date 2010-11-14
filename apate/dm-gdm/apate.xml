@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE greeter SYSTEM "greeter.dtd">
 <!--
-Copyright 2009 David Creedy <klaymen@aptosid.com>
+Copyright 2010 Rick Battle <rick.battle@solmera.com>
+Copyright 2009 David Creedy <klaymen@sidux.com>
 Copyright 2009 Niall Walsh <niallwalsh@users.berlios.de>
-Copyright 2010 Rick Battle <rick.battle@aptosid.com>
 files: session.png, system.png and language.png -
     Copyright 2008 Urs Wolfer <uwolfer @ kde.org>
     Copyright 2008 Oswald Buddenhagen <ossi @ kde.org>
@@ -27,14 +27,9 @@ files: session.png, system.png and language.png -
 		<normal file="background.png"/>
 		<pos x="50%" y="50%" anchor="c" width="scale" height="100%"/>
 	</item>
-	<!-- aptosid text -->
-	<item type="pixmap">
-		<normal file="aptosid.png"/>
-		<pos x="0" y="0" anchor="nw"/>
-	</item>
 	<!-- welcome -->
 	<item type="label" id="welcome-label">
-		<pos x="330" y="75" anchor="nw" />
+		<pos x="275" y="85" anchor="nw" />
 		<normal font="Sans Bold 18" color="#ffffff"/>
 		<stock type="welcome-label"/>
 	</item>
@@ -48,7 +43,7 @@ files: session.png, system.png and language.png -
 				<box orientation="horizontal" spacing="20" xpadding="20">
 					<!-- scorpion logo -->
 					<item type="pixmap" id="branding">
-						<normal file="comic-fred.png"/>
+						<normal file="fred.png"/>
 					</item>
 					<!-- userlist -->
 					<item type="list" id="userlist">
