@@ -1,9 +1,5 @@
-aptosid-art-apate (0.0.5) UNRELEASED; urgency=low
+aptosid-art-apate (0.0.5) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Rick Battle ]
   * splash-xfce: continuing the use of the hypnos overlay, with the new apate
     background.
   * gdm-theme: ported from the kdm theme
