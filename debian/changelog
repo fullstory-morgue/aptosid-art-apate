@@ -5,8 +5,9 @@ aptosid-art-apate (0.0.6) UNRELEASED; urgency=low
 
   [ Rick Battle ]
   * initial commit of apate grub theme
+  * moved oxygenrc out of the the art package into the settings package where it belongs
 
- -- Rick Battle <rick.battle@solmera.com>  Sun, 12 Dec 2010 12:54:25 -0500
+ -- Rick Battle <rick.battle@solmera.com>  Sun, 12 Dec 2010 13:06:08 -0500
 
 aptosid-art-apate (0.0.5) unstable; urgency=low
 
