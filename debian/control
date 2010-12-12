@@ -26,6 +26,18 @@ Description: GDM theme for aptosid 2010-03 release
  This package does not override existing theme configurations and needs to be
  selected manually.
 
+Package: aptosid-art-grub-apate
+Architecture: all
+Depends: ${misc:Depends},
+ desktop-base
+Description: grub2 theme for aptosid 2010-03 release
+ release specific artwork theme for the grub2 bootloader.
+ .
+ grub2 artwork for: aptosid 2010-03 (Ἀπάτη)
+ .
+ This package does not override existing theme configurations and needs to be
+ selected manually.
+
 Package: aptosid-art-kde-apate
 Architecture: all
 Provides: aptosid-art-kde-theme

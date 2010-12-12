@@ -1,8 +1,12 @@
 aptosid-art-apate (0.0.6) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 14 Nov 2010 22:44:50 +0100
+  [ Rick Battle ]
+  * initial commit of apate grub theme
+
+ -- Rick Battle <rick.battle@solmera.com>  Sun, 12 Dec 2010 12:54:25 -0500
 
 aptosid-art-apate (0.0.5) unstable; urgency=low
 
