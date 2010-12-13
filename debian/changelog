@@ -7,8 +7,9 @@ aptosid-art-apate (0.0.6) UNRELEASED; urgency=low
   * initial commit of apate grub theme
   * moved oxygenrc out of the the art package into the settings package where it belongs
   * updated the theme-kde control file to copy both colour themes
+  * changed the name of the grub theme file to allow future version not to conflict
 
- -- Rick Battle <rick.battle@solmera.com>  Sun, 12 Dec 2010 13:10:11 -0500
+ -- Rick Battle <rick.battle@solmera.com>  Sun, 12 Dec 2010 20:03:36 -0500
 
 aptosid-art-apate (0.0.5) unstable; urgency=low
 
