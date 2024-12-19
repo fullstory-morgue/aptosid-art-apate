@@ -2,6 +2,7 @@ aptosid-art-apate (0.0.6) UNRELEASED; urgency=low
 
   [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
+  * refresh SVG graphics, shut up inkscape's migration from old versions.
 
   [ Rick Battle ]
   * initial commit of apate grub theme
